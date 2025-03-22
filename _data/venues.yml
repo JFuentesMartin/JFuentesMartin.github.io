@@ -2,11 +2,14 @@
   url: https://link.springer.com/journal/13130
   color: "#00369f"
   
-"Phys. Lett. B":
+"PLB":
   url: https://www.sciencedirect.com/journal/physics-letters-b
   color: "#009f36"
 
 "PhysRev":
+  url: https://journals.aps.org/
+  
+"EPJC":
   url: https://journals.aps.org/
 
 "Preprint":

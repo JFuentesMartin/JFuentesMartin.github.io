@@ -29,3 +29,31 @@
 "neubert":
   - firstname: ["M.", "Matthias"]
     url: https://inspirehep.net/authors/995832
+    
+"aebischer":
+  - firstname: ["J.", "Jason"]
+    url: https://inspirehep.net/authors/1515588
+    
+"fael":
+  - firstname: ["M.", "Matteo"]
+    url: https://inspirehep.net/authors/1266373
+
+"virto":
+  - firstname: ["J.", "Javier"]
+    url: https://inspirehep.net/authors/1032745
+    
+"konig":
+  - firstname: ["M.", "Matthias"]
+    url: https://inspirehep.net/authors/1410740
+    
+"pages":
+  - firstname: ["J.", "Julie"]
+    url: https://inspirehep.net/authors/1802061
+    
+"wilsch":
+  - firstname: ["F.", "Felix"]
+    url: https://inspirehep.net/authors/1837047
+    
+"born":
+  - firstname: ["L.", "Lukas"]
+    url: https://inspirehep.net/authors/2831733
