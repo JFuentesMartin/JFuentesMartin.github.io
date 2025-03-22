@@ -1,34 +1,31 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"lizana":
+  - firstname: ["J.", "J.M", "Javier", "Javier M."]
+    url: https://inspirehep.net/authors/1274273
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"thomsen":
+  - firstname: ["A.", "A. E.", "Anders", "Anders Eller"]
+    url: https://inspirehep.net/authors/1721318
+    
+"palavric":
+  - firstname: ["A.", "Ajdin"]
+    url: https://inspirehep.net/authors/1867674
+    
+"moreno-sanchez":
+  - firstname: ["A.", "Adrián"]
+    url: https://inspirehep.net/authors/2860412
+    
+"kvedaraite":
+  - firstname: ["S.", "Sandra"]
+    url: https://inspirehep.net/authors/1777890
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"biekotter":
+  - firstname: ["A.", "Anke"]
+    url: https://inspirehep.net/authors/1701380
+    
+"galda":
+  - firstname: ["A. M.", "Anne Mareike"]
+    url: https://inspirehep.net/authors/2053467
+    
+"neubert":
+  - firstname: ["M.", "Matthias"]
+    url: https://inspirehep.net/authors/995832

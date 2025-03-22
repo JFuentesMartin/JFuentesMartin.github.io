@@ -1,9 +1,13 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"JHEP":
+  url: https://link.springer.com/journal/13130
   color: "#00369f"
+  
+"Phys. Lett. B":
+  url: https://www.sciencedirect.com/journal/physics-letters-b
+  color: "#009f36"
 
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
-  color: "#009f36"
+"Preprint":
+  color:
