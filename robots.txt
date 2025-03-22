@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://JFuentesMartin.github.io/al-folio/sitemap.xml
+Sitemap: https://JFuentesMartin.github.io/sitemap.xml
