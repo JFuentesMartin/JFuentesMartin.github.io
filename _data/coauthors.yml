@@ -1,111 +1,107 @@
 "lizana":
-  - firstname: ["J.", "J.M", "Javier", "Javier M."]
+  - firstname: ["Javier", "Javier M.", "J.", "J.M"]
     url: https://inspirehep.net/authors/1274273
 
 "thomsen":
-  - firstname: ["A.", "A. E.", "Anders", "Anders Eller"]
+  - firstname: ["Anders", "Anders Eller", "A.", "A. E."]
     url: https://inspirehep.net/authors/1721318
     
 "palavric":
-  - firstname: ["A.", "Ajdin"]
+  - firstname: ["Ajdin", "A."]
     url: https://inspirehep.net/authors/1867674
     
 "moreno-sanchez":
-  - firstname: ["A.", "Adrián"]
+  - firstname: ["Adrián", "A."]
     url: https://inspirehep.net/authors/2860412
     
 "kvedaraite":
-  - firstname: ["S.", "Sandra"]
+  - firstname: ["Sandra", "S."]
     url: https://inspirehep.net/authors/1777890
 
 "biekotter":
-  - firstname: ["A.", "Anke"]
+  - firstname: ["Anke", "A."]
     url: https://inspirehep.net/authors/1701380
     
 "galda":
-  - firstname: ["A. M.", "Anne Mareike"]
+  - firstname: ["Anne Mareike", "A. M."]
     url: https://inspirehep.net/authors/2053467
     
 "neubert":
-  - firstname: ["M.", "Matthias"]
+  - firstname: ["Matthias", "M."]
     url: https://inspirehep.net/authors/995832
     
 "aebischer":
-  - firstname: ["J.", "Jason"]
+  - firstname: ["Jason", "J."]
     url: https://inspirehep.net/authors/1515588
     
 "fael":
-  - firstname: ["M.", "Matteo"]
+  - firstname: ["Matteo", "M."]
     url: https://inspirehep.net/authors/1266373
 
 "virto":
-  - firstname: ["J.", "Javier"]
+  - firstname: ["Javier", "J."]
     url: https://inspirehep.net/authors/1032745
     
 "konig":
-  - firstname: ["M.", "Matthias"]
+  - firstname: ["Matthias", "M."]
     url: https://inspirehep.net/authors/1410740
     
 "pages":
-  - firstname: ["J.", "Julie"]
+  - firstname: ["Julie", "J."]
     url: https://inspirehep.net/authors/1802061
     
 "wilsch":
-  - firstname: ["F.", "Felix"]
+  - firstname: ["Felix", "F."]
     url: https://inspirehep.net/authors/1837047
     
 "born":
-  - firstname: ["L.", "Lukas"]
+  - firstname: ["Lukas", "L."]
     url: https://inspirehep.net/authors/2831733
 
 "dawson":
-  - firstname: ["S.", "Sally"]
+  - firstname: ["Sally", "S."]
     url: https://inspirehep.net/authors/1012276
     
 "greljo":
-  - firstname: ["A.", "Admir"]
+  - firstname: ["Admir", "A."]
     url: https://inspirehep.net/authors/1198373
     
 "lohwasser":
-  - firstname: ["K.", "Kristin"]
+  - firstname: ["Kristin", "K."]
     url: https://inspirehep.net/authors/1061067
 
 "das bakshi":
-  - firstname: ["S.", "Supratim"]
+  - firstname: ["Supratim", "S."]
     url: https://inspirehep.net/authors/1687788
     
 "isidori":
-  - firstname: ["G.", "Gino"]
+  - firstname: ["Gino", "G."]
     url: https://inspirehep.net/authors/1004833
     
 "selimovic":
-  - firstname: ["N.", "Nudzeim"]
+  - firstname: ["Nudzeim", "N."]
     url: https://inspirehep.net/authors/1919151
     
 "stefanek":
-  - firstname: ["B. A.", "Ben A."]
+  - firstname: ["Ben", "Ben A.", "B", "B. A."]
     url: https://inspirehep.net/authors/1657376
     
 "ruiz-femenia":
-  - firstname: ["P.", "Pedro"]
+  - firstname: ["Pedro", "P."]
     url: https://inspirehep.net/authors/1041927
     
 "vicente":
-  - firstname: ["A.", "Avelino"]
+  - firstname: ["Avelino", "A."]
     url: https://inspirehep.net/authors/1073940
     
-"virto":
-  - firstname: ["J.", "Javier"]
-    url: https://inspirehep.net/authors/1032745
-    
 "cornella":
-  - firstname: ["C.", "Claudia"]
+  - firstname: ["Claudia", "C."]
     url: https://inspirehep.net/authors/1643530
     
 "bordone":
-  - firstname: ["M.", "Marzia"]
+  - firstname: ["Marzia", "M."]
     url: https://inspirehep.net/authors/1336577
     
 "stangl":
-  - firstname: ["P.", "Peter"]
+  - firstname: ["Peter", "P."]
     url: https://inspirehep.net/authors/1356181
