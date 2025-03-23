@@ -22,7 +22,7 @@ announcements:
 <br>Welcome!
 
 <div style="text-align: justify;">
-I'm a theoretical physicist passionate about exploring the mysteries that lie beyond the Standard Model, with a special focus on Flavor Physics and Effective Field Theories. I also developed the Mathematica packages <a href="https://gitlab.com/matchete/matchete">Matchete</a> and <a href="https://dsixtools.github.io/">DsixTools</a>, designed to simplify the processes of matching and Renormalization Group Evolution for effective field theory studies. Curious about my work? Check out my <a href="/publications">publications page</a> for more details.
+I'm a theoretical physicist passionate about exploring the mysteries that lie beyond the Standard Model, with a special focus on Flavor Physics and Effective Field Theories. I also developed the Mathematica packages <a href="https://gitlab.com/matchete/matchete">Matchete</a> and <a href="https://dsixtools.github.io/">DsixTools</a>, designed to simplify the processes of matching and renormalization group evolution for Effective Field Theory studies. Curious about my work? Check out my <a href="/publications">publications page</a> for more details.
 <br/> 
 
 <br>In addition to my research, I hold a teaching position at the University of Granada. For an overview of my teaching experience and links to some of my notes, please visit my <a href="/teaching">teaching page</a>.

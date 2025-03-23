@@ -57,3 +57,55 @@
 "born":
   - firstname: ["L.", "Lukas"]
     url: https://inspirehep.net/authors/2831733
+
+"dawson":
+  - firstname: ["S.", "Sally"]
+    url: https://inspirehep.net/authors/1012276
+    
+"greljo":
+  - firstname: ["A.", "Admir"]
+    url: https://inspirehep.net/authors/1198373
+    
+"lohwasser":
+  - firstname: ["K.", "Kristin"]
+    url: https://inspirehep.net/authors/1061067
+
+"das bakshi":
+  - firstname: ["S.", "Supratim"]
+    url: https://inspirehep.net/authors/1687788
+    
+"isidori":
+  - firstname: ["G.", "Gino"]
+    url: https://inspirehep.net/authors/1004833
+    
+"selimovic":
+  - firstname: ["N.", "Nudzeim"]
+    url: https://inspirehep.net/authors/1919151
+    
+"stefanek":
+  - firstname: ["B. A.", "Ben A."]
+    url: https://inspirehep.net/authors/1657376
+    
+"ruiz-femenia":
+  - firstname: ["P.", "Pedro"]
+    url: https://inspirehep.net/authors/1041927
+    
+"vicente":
+  - firstname: ["A.", "Avelino"]
+    url: https://inspirehep.net/authors/1073940
+    
+"virto":
+  - firstname: ["J.", "Javier"]
+    url: https://inspirehep.net/authors/1032745
+    
+"cornella":
+  - firstname: ["C.", "Claudia"]
+    url: https://inspirehep.net/authors/1643530
+    
+"bordone":
+  - firstname: ["M.", "Marzia"]
+    url: https://inspirehep.net/authors/1336577
+    
+"stangl":
+  - firstname: ["P.", "Peter"]
+    url: https://inspirehep.net/authors/1356181
