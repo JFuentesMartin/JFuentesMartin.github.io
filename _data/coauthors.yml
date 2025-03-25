@@ -79,7 +79,7 @@
     url: https://inspirehep.net/authors/1004833
     
 "selimovic":
-  - firstname: ["Nudzeim", "N."]
+  - firstname: ["Nudzeim", "Nudžeim", "N."]
     url: https://inspirehep.net/authors/1919151
     
 "stefanek":
@@ -105,3 +105,67 @@
 "stangl":
   - firstname: ["Peter", "P."]
     url: https://inspirehep.net/authors/1356181
+    
+"faroughy":
+  - firstname: ["Darius", "Darius A.", "D.", "D. A."]
+    url: https://inspirehep.net/authors/1498216
+    
+"martin camalich":
+  - firstname: ["Jorge", "J."]
+    url: https://inspirehep.net/authors/1056267
+    
+"ruiz-alvarez":
+  - firstname: ["José David", "J. D."]
+    url: https://inspirehep.net/authors/1184534
+    
+"yamamoto":
+  - firstname: ["Kei", "K."]
+    url: https://inspirehep.net/authors/1389469
+    
+"reig":
+  - firstname: ["Mario", "M."]
+    url: https://inspirehep.net/authors/1501139
+    
+"dai":
+  - firstname: ["Ling-Yun"]
+    url: https://inspirehep.net/authors/1273310
+    
+"portoles":
+  - firstname: ["Jorge", "J."]
+    url: https://inspirehep.net/authors/992928
+    
+"baker":
+  - firstname: ["Michael J.", "M. J."]
+    url: https://inspirehep.net/authors/1069791
+    
+"di luzio":
+  - firstname: ["Luca", "L."]
+    url: https://inspirehep.net/authors/1063643
+    
+"nardecchia":
+  - firstname: ["Marco", "M."]
+    url: https://inspirehep.net/authors/1069385
+    
+"renner":
+  - firstname: ["Sophie", "S."]
+    url: https://inspirehep.net/authors/1260372
+    
+"celis":
+  - firstname: ["Alejandro", "A."]
+    url: https://inspirehep.net/authors/1189874
+    
+"crivellin":
+  - firstname: ["Andreas", "A."]
+    url: https://inspirehep.net/authors/1060042
+    
+"boucenna":
+  - firstname: ["Sofiane M.", "S. M."]
+    url: https://inspirehep.net/authors/1073727
+    
+"jung":
+  - firstname: ["Martin", "M."]
+    url: https://inspirehep.net/authors/1258549
+    
+"serodio":
+  - firstname: ["Hugo", "H."]
+    url: https://inspirehep.net/authors/1051961
